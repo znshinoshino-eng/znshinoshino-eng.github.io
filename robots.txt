@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://znshinoshino-eng.github.io/ryou1210-flightlog/sitemap.xml
